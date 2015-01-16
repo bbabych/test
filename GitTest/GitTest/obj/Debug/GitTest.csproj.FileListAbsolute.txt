@@ -1,0 +1,6 @@
+c:\users\bbabych\documents\visual studio 2013\Projects\GitTest\GitTest\bin\Debug\GitTest.exe.config
+c:\users\bbabych\documents\visual studio 2013\Projects\GitTest\GitTest\bin\Debug\GitTest.exe
+c:\users\bbabych\documents\visual studio 2013\Projects\GitTest\GitTest\bin\Debug\GitTest.pdb
+c:\users\bbabych\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+c:\users\bbabych\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Debug\GitTest.exe
+c:\users\bbabych\documents\visual studio 2013\Projects\GitTest\GitTest\obj\Debug\GitTest.pdb
