@@ -20,5 +20,10 @@ namespace GitTest
         {
             return X + Y;
         }
+
+        public int Minus()
+        {
+            return X - Y;
+        }
     }
 }
