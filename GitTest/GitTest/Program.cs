@@ -10,7 +10,9 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello 1111!");
+            var t = new TestClass(5, 10).Sum();
+            Console.WriteLine(t);
             Console.ReadKey();
         }
     }
